@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+h1 {
+    color: blue;
+}
+
+.para1 {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+.para2 {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+}
+
+.para3 {
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 5px red;
+}
