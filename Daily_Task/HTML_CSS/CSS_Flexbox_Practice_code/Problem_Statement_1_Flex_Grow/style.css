@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 300px;
+    height: 30px;
+    display: flex;
+}
+.red_div {
+    background-color: red;
+    flex-grow: 1;
+}
+.blue_div {
+    background-color: blue;
+    flex-grow: 1;
+}
+.yellow_div {
+    background-color: yellow;
+    flex-grow: 1;
+}
+.pink_div {
+    background-color: pink;
+    flex-grow: 4;
+}
